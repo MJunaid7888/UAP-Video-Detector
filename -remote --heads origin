@@ -1,0 +1,23 @@
+  develop[m
+  feature/frame-stabilization[m
+  feature/motion-estimation[m
+  feature/motion-smoothing[m
+  feature/stabilization-crop[m
+  feature/video-stabilization[m
+  feature/video-stabilization-pipeline[m
+* [32mfeature/video-stabilizer-class[m
+  main[m
+  [31mremotes/origin/001-yolo-video-player[m
+  [31mremotes/origin/HEAD[m -> origin/main
+  [31mremotes/origin/Povoa01-patch-1[m
+  [31mremotes/origin/Povoa01-patch-2[m
+  [31mremotes/origin/develop[m
+  [31mremotes/origin/feature/frame-stabilization[m
+  [31mremotes/origin/feature/html5-video-layer[m
+  [31mremotes/origin/feature/motion-estimation[m
+  [31mremotes/origin/feature/motion-smoothing[m
+  [31mremotes/origin/feature/skill-driven[m
+  [31mremotes/origin/feature/stabilization-crop[m
+  [31mremotes/origin/feature/video-stabilization[m
+  [31mremotes/origin/feature/video-stabilization-pipeline[m
+  [31mremotes/origin/main[m
